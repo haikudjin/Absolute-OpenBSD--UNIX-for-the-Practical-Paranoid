@@ -1,4 +1,4 @@
-Absolute-OpenBSD--UNIX-for-the-Practical-Paranoid
+OpenBSD: UNIX для параноиков
 =================================================
 
 Перевод Absolute OpenBSD: UNIX for the Practical Paranoid
